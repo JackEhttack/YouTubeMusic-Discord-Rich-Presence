@@ -4,7 +4,7 @@ from threading import Timer
 
 #################################
 # Put your application ID in here:
-client_id = "1013299217139245166"
+client_id = "<application_id_goes_here_please!>"
 # Thanks.
 #################################
 
