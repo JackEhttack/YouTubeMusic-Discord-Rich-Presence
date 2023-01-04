@@ -2,7 +2,7 @@
     "manifest_version": 2,
   
     "name": "YouTubeMusicDiscordRichPresence",
-    "description": "Shows YouTubeMusic in Discord! By DevDenis, Modified by JackEhttack",
+    "description": "Shows YouTubeMusic in Discord! By DevDenis",
     "version": "1.0",
 
     "content_scripts" : [{
