@@ -16,6 +16,6 @@ Directly run the pythonmusic.py / start-ytm.bat, or use silent_start.vbs to hide
 
 ## WARNING
 My code is probably really **gross**, and I don't have much experience with HTTP requests and posts and yada yada... 
-I'm probably butchering the terminology. Oh well ¯\_(ツ)_/¯.
+I'm probably butchering the terminology. Oh well ¯\\_(ツ)_/¯.
 
 
