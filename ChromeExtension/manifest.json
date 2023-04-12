@@ -12,7 +12,7 @@
       
     "background": {
       "scripts": ["jquery.js", "background.js"],
-      "persistent": true
+	  "persistant": true
     },
   
     "browser_action": {},
